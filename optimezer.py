@@ -7,7 +7,7 @@ from face_direction_predictor import FaceDirectionPredictor
 from emotion_felt_predictor import EmotionFeltPredictor
 
 
-LOG_FILENAME = 'logs/optimezer.log'
+LOG_FILENAME = 'logs/optimezer-max.log'
 logging.basicConfig(filename=LOG_FILENAME, level=logging.DEBUG,)
 
 
@@ -24,20 +24,20 @@ class Optimezer:
         best_model = object()
         p = self.predictor_class()
         for l in itertools.permutations(p.labels):
-            for l2 in [0.1, 0.3, 1, 10]:
-                for l1 in [0, 0.1, 0.3, 1, 10]:
-                    #         for eta in self.small_scale():
+            # for l2 in [0.1, 0.3, 1, 10]:
+            #     for l1 in [0, 0.1, 0.3, 1, 10]:
+            #         for eta in self.small_scale():
                         # for alpha in self.small_scale():
-                    p = self.predictor_class(l)
-                    p.l2 = l2
-                    p.l1 = l1
-                    # p.eta = eta
-                    # p.alpha = alpha
-                    p.fit()
-                    t_score = self.accuracy(p)
-                    if t_score > score:
-                        score = t_score
-                        best_model = p
+            p = self.predictor_class(l)
+            # p.l2 = l2
+            # p.l1 = l1
+            # p.eta = eta
+            # p.alpha = alpha
+            p.fit()
+            t_score = self.accuracy(p)
+            if t_score > score:
+                score = t_score
+                best_model = p
         return best_model
 
     def accuracy(self, model):

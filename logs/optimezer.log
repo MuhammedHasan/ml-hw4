@@ -547,3 +547,1088 @@ INFO:root:('happy', 'angry', 'neutral', 'sad') l2: 10 l1: 0.3 epochs: 1000 eta: 
 INFO:root:train accuracy: 0.371428571429 
 INFO:root:test accuracy: 0.288888888889 
 INFO:root:('happy', 'angry', 'neutral', 'sad') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('happy', 'angry', 'neutral', 'sad') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.336507936508 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.520634920635 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.568253968254 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.574603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.568253968254 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.542857142857 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.571428571429 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.520634920635 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'neutral', 'angry') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.403174603175 
+INFO:root:test accuracy: 0.244444444444 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.542857142857 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.653968253968 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.628571428571 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.653968253968 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.580952380952 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.584126984127 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.526984126984 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.584126984127 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.488888888889 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'happy', 'angry', 'neutral') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.380952380952 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.498412698413 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.634920634921 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.6 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.622222222222 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.638095238095 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.622222222222 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.514285714286 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'happy', 'angry') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.425396825397 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.514285714286 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.631746031746 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.590476190476 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.631746031746 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.657142857143 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.631746031746 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.590476190476 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.514285714286 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'neutral', 'angry', 'happy') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.492063492063 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.577777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.549206349206 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.622222222222 
+INFO:root:test accuracy: 0.322222222222 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.577777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.638095238095 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.606349206349 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.622222222222 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.549206349206 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.606349206349 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.453968253968 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'happy', 'neutral') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.393650793651 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.561904761905 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.634920634921 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.533333333333 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.571428571429 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.634920634921 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.587301587302 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.593650793651 
+INFO:root:test accuracy: 0.3 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.533333333333 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.479365079365 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('sad', 'angry', 'neutral', 'happy') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.396825396825 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.47619047619 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.511111111111 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.549206349206 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.609523809524 
+INFO:root:test accuracy: 0.333333333333 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.511111111111 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.561904761905 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.568253968254 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.590476190476 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.549206349206 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.568253968254 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.514285714286 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'sad', 'angry') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.349206349206 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.577777777778 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.571428571429 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.606349206349 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.577777777778 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.555555555556 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.574603174603 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.571428571429 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.574603174603 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.501587301587 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'happy', 'angry', 'sad') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.352380952381 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.495238095238 
+INFO:root:test accuracy: 0.322222222222 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.501587301587 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.574603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.584126984127 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.514285714286 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.536507936508 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.501587301587 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.514285714286 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.507936507937 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'happy', 'angry') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.342857142857 
+INFO:root:test accuracy: 0.322222222222 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.466666666667 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.606349206349 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.6 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.593650793651 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.606349206349 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.622222222222 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.628571428571 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.619047619048 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.6 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.628571428571 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.498412698413 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'sad', 'angry', 'happy') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.361904761905 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.463492063492 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.526984126984 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.580952380952 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.533333333333 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.520634920635 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.526984126984 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.520634920635 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.485714285714 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'happy', 'sad') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.380952380952 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.6 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.568253968254 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.555555555556 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.619047619048 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.568253968254 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.619047619048 
+INFO:root:test accuracy: 0.3 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.52380952381 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.555555555556 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.495238095238 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('neutral', 'angry', 'sad', 'happy') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.35873015873 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.479365079365 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.64126984127 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.542857142857 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.634920634921 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.64126984127 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.615873015873 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.539682539683 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.542857142857 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.48253968254 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.371428571429 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'sad', 'neutral') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.361904761905 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.450793650794 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.542857142857 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.606349206349 
+INFO:root:test accuracy: 0.322222222222 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.542857142857 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.584126984127 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.590476190476 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.596825396825 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.590476190476 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.498412698413 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'happy', 'neutral', 'sad') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.415873015873 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.444444444444 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.561904761905 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.609523809524 
+INFO:root:test accuracy: 0.255555555556 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.561904761905 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.463492063492 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.52380952381 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.530158730159 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.463492063492 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.533333333333 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'happy', 'neutral') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.233333333333 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.428571428571 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.587301587302 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.650793650794 
+INFO:root:test accuracy: 0.333333333333 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.587301587302 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.622222222222 
+INFO:root:test accuracy: 0.322222222222 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.555555555556 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.546031746032 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.479365079365 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'sad', 'neutral', 'happy') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.352380952381 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.450793650794 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.555555555556 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.577777777778 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.555555555556 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.609523809524 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.587301587302 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.584126984127 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.565079365079 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.587301587302 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.536507936508 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'happy', 'sad') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.4 
+INFO:root:test accuracy: 0.2 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.463492063492 
+INFO:root:test accuracy: 0.266666666667 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.615873015873 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.609523809524 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.3 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.615873015873 
+INFO:root:test accuracy: 0.322222222222 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.3 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.615873015873 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.3 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.64126984127 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.3 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.593650793651 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 0.3 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 1 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.603174603175 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 1 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.609523809524 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 1 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.593650793651 
+INFO:root:test accuracy: 0.311111111111 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 1 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.511111111111 
+INFO:root:test accuracy: 0.277777777778 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 1 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 10 l1: 0 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 10 l1: 0.1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 10 l1: 0.3 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.374603174603 
+INFO:root:test accuracy: 0.3 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 10 l1: 1 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.377777777778 
+INFO:root:test accuracy: 0.288888888889 
+INFO:root:('angry', 'neutral', 'sad', 'happy') l2: 10 l1: 10 epochs: 1000 eta: 0.001 alpha: 0.001 decrease_const: 1e-05 minibatches: 50
+INFO:root:train accuracy: 0.326984126984 
+INFO:root:test accuracy: 0.277777777778 

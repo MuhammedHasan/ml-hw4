@@ -1,4 +1,5 @@
 import os
+import pickle
 from PIL import Image
 
 import numpy as np
@@ -58,7 +59,7 @@ class FaceDirectionPredictor(object):
                  i.split('_')[self.file_label_number])
                 for i in os.listdir(folder)]
 
-    def _pic_to_X_y(self):
+    def _pic_to_X_y(self, folder="TrainingSet"):
         '''
         Convert traing set pictures to X and y
         return: tuple of X, y
@@ -71,17 +72,24 @@ class FaceDirectionPredictor(object):
             for pic, label in self._read_pics()
         ]))
 
-    def fit(self):
+    def fit(self, version=""):
         '''
         Fits data for traing set
         '''
-        (X, y) = self._pic_to_X_y()
+        pickle_file = 'models/%s%s.p' % (self.__class__.__name__, version)
+
         self._model = NeuralNetMLP(l2=self.l2, l1=self.l1, epochs=self.epochs,
                                    eta=self.eta, alpha=self.alpha,
                                    decrease_const=self.decrease_const,
                                    minibatches=self.minibatches, shuffle=True,
                                    random_state=1, n_output=4, n_features=960)
-        self._model.fit(X, y)
+
+        if os.path.isfile(pickle_file):
+            self._model = pickle.load(open(pickle_file, 'rb'))
+        else:
+            (X, y) = self._pic_to_X_y()
+            self._model.fit(X, y)
+            pickle.dump(self._model, open(pickle_file, 'wb'))
 
     def predict(self, pic):
         '''
